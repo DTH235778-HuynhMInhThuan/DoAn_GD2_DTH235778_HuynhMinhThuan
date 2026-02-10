@@ -123,3 +123,4 @@ C:\Laptrinh.NET_WindowsForm\DoAnCaNhan\QuanLyNhaTro\obj\Debug\net8.0-windows\Qua
 C:\Laptrinh.NET_WindowsForm\DoAnCaNhan\QuanLyNhaTro\obj\Debug\net8.0-windows\QuanLyNhaTro.genruntimeconfig.cache
 C:\Laptrinh.NET_WindowsForm\DoAnCaNhan\QuanLyNhaTro\obj\Debug\net8.0-windows\ref\QuanLyNhaTro.dll
 C:\Laptrinh.NET_WindowsForm\DoAnCaNhan\QuanLyNhaTro\obj\Debug\net8.0-windows\QuanLyNhaTro.Forms.frmHopDong.resources
+C:\Laptrinh.NET_WindowsForm\DoAnCaNhan\QuanLyNhaTro\obj\Debug\net8.0-windows\QuanLyNhaTro.Forms.frmDienNuoc.resources
